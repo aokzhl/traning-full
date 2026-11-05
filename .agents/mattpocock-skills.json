@@ -1,0 +1,118 @@
+{
+  "repository": "https://github.com/mattpocock/skills",
+  "commit": "4ae2317ddb22b046e26455e4f9c9b3aaaf62212d",
+  "installed_at": "2026-11-05",
+  "scope": "project",
+  "destination": ".agents/skills",
+  "license": ".agents/mattpocock-skills.LICENSE",
+  "skills": [
+    {
+      "name": "ask-matt",
+      "source_path": "skills/engineering/ask-matt"
+    },
+    {
+      "name": "code-review",
+      "source_path": "skills/engineering/code-review"
+    },
+    {
+      "name": "codebase-design",
+      "source_path": "skills/engineering/codebase-design"
+    },
+    {
+      "name": "diagnosing-bugs",
+      "source_path": "skills/engineering/diagnosing-bugs"
+    },
+    {
+      "name": "domain-modeling",
+      "source_path": "skills/engineering/domain-modeling"
+    },
+    {
+      "name": "grill-with-docs",
+      "source_path": "skills/engineering/grill-with-docs"
+    },
+    {
+      "name": "implement-spec",
+      "source_path": "skills/engineering/implement-spec"
+    },
+    {
+      "name": "implement",
+      "source_path": "skills/engineering/implement"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "source_path": "skills/engineering/improve-codebase-architecture"
+    },
+    {
+      "name": "pr",
+      "source_path": "skills/engineering/pr"
+    },
+    {
+      "name": "prototype",
+      "source_path": "skills/engineering/prototype"
+    },
+    {
+      "name": "research",
+      "source_path": "skills/engineering/research"
+    },
+    {
+      "name": "retro",
+      "source_path": "skills/engineering/retro"
+    },
+    {
+      "name": "setup-matt-pocock-skills",
+      "source_path": "skills/engineering/setup-matt-pocock-skills"
+    },
+    {
+      "name": "tdd",
+      "source_path": "skills/engineering/tdd"
+    },
+    {
+      "name": "to-spec",
+      "source_path": "skills/engineering/to-spec"
+    },
+    {
+      "name": "to-tickets",
+      "source_path": "skills/engineering/to-tickets"
+    },
+    {
+      "name": "triage",
+      "source_path": "skills/engineering/triage"
+    },
+    {
+      "name": "wayfinder",
+      "source_path": "skills/engineering/wayfinder"
+    },
+    {
+      "name": "wizard",
+      "source_path": "skills/engineering/wizard"
+    },
+    {
+      "name": "grill-me",
+      "source_path": "skills/productivity/grill-me"
+    },
+    {
+      "name": "grilling",
+      "source_path": "skills/productivity/grilling"
+    },
+    {
+      "name": "handoff",
+      "source_path": "skills/productivity/handoff"
+    },
+    {
+      "name": "teach",
+      "source_path": "skills/productivity/teach"
+    },
+    {
+      "name": "to-questionnaire",
+      "source_path": "skills/productivity/to-questionnaire"
+    },
+    {
+      "name": "wait-what",
+      "source_path": "skills/productivity/wait-what"
+    },
+    {
+      "name": "writing-for-agents",
+      "source_path": "skills/productivity/writing-for-agents"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/Sdju/feod",
+  "commit": "54a39cd4a44fbd01620ac58a0367cc45af77c895",
+  "installed_at": "2026-11-05",
+  "scope": "project",
+  "destination": ".agents/skills",
+  "license": ".agents/feod.LICENSE",
+  "skills": [
+    {
+      "name": "feod",
+      "source_path": "skills/feod"
+    }
+  ]
+}

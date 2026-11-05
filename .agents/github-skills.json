@@ -1,0 +1,15 @@
+{
+  "repository": "openai/skills",
+  "commit": "49f948faa9258a0c61caceaf225e179651397431",
+  "paths": [
+    "skills/.curated/gh-address-comments",
+    "skills/.curated/gh-fix-ci",
+    "skills/.curated/yeet"
+  ],
+  "destination": ".agents/skills",
+  "licenses": [
+    ".agents/skills/gh-address-comments/LICENSE.txt",
+    ".agents/skills/gh-fix-ci/LICENSE.txt",
+    ".agents/skills/yeet/LICENSE.txt"
+  ]
+}
